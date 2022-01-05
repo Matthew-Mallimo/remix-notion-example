@@ -1,6 +1,9 @@
 # Remix Notion Example
 
-This is an example of how to submit a form to a Notion DB.
+This is a basic example of how to submit a form to a Notion DB.
+It does not include fancy things like form validation. 
+
+## Setup
 
 Create a Table page in Notion, and add columns:
 * Firstname
