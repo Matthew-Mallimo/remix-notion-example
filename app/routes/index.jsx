@@ -1,7 +1,4 @@
-import { json, useTransition } from 'remix';
-
 export default function Index() {
-  const { state } = useTransition();
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
       <h1>Remix Form to Notion DB Example</h1>
